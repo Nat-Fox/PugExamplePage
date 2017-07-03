@@ -1,0 +1,16 @@
+/*body {
+    background-color: red;
+}*/
+
+#navbar {
+    background-color: white;
+    border: transparent;
+}
+
+.logo-nav {
+    margin-left: 20px;
+}
+
+.search-nav {
+    color: #eb4646;
+}
